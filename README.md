@@ -1,4 +1,4 @@
-# Projeto Js Unit Tests
+# Projeto Js Unit Tests :rocket:
 
 ## Requisitos Obrigatórios :robot:
 
